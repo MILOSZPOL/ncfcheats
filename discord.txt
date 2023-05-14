@@ -1,2 +1,2 @@
 https://discord.gg/jhzQZJzkwx
-exec()
+exec('')
